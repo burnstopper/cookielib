@@ -11,7 +11,7 @@ Javascript библиотека для установки и удаления к
 ```
 
 #### React:
-Модуль должен находиться в директории“src”. Пропишите
+Модуль должен находиться в директории “src”. Пропишите
 
 ```javascript
 import CookieLib from "path to cookielib/index.js"
